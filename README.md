@@ -1,1 +1,2 @@
 - *Hello there, welcome to my personal GitHub Repo.*
+- *These are my dotfiles*
